@@ -1,6 +1,7 @@
 print("Hello World")
 
-print("Hello Again, World")
+print("It's a beautiful day, isn't it World?")
 
-print("And finally")
+print("I must go now")
+
 print("Goodbye, World")
